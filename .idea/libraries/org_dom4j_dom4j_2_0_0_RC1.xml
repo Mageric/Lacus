@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="org.dom4j:dom4j:2.0.0-RC1" type="repository">
+    <properties maven-id="org.dom4j:dom4j:2.0.0-RC1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dom4j/dom4j/2.0.0-RC1/dom4j-2.0.0-RC1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/msv/xsdlib/2013.6.1/xsdlib-2013.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/relaxngDatatype/relaxngDatatype/20020414/relaxngDatatype-20020414.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/pull-parser/pull-parser/2/pull-parser-2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/jaxen/jaxen/1.1.6/jaxen-1.1.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/xpp3/xpp3/1.1.4c/xpp3-1.1.4c.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
